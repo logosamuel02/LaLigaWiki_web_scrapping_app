@@ -1,3 +1,3 @@
 # LaLigaWiki_web_scrapping_app
 
-Team work developed in 2022
+Teamwork developed in the second year of the data science degree, in 2022
